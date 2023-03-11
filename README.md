@@ -1,3 +1,3 @@
 # MS-Project
 
-![title](/Users/stella/Downloads/prj1movie.jpeg)
+![title](images/prj1movie.jpeg)
