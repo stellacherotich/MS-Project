@@ -51,6 +51,7 @@ The data had been retrieved from three main sources.
 <b> Top and Lowest rated Genres </b>
 * In order to determine the top rated genres in the industry, the genres were grouped together based on their average rating. 
 <img width="633" alt="Top_Genres" src="https://user-images.githubusercontent.com/124343722/224565794-27d80ace-b72f-42c0-8109-bc1bea6c0151.png">
+
 * Based on the barchart illustrated, the top rated genres include :
 
     1. Comedy, Documentary, Fantasy
@@ -62,6 +63,15 @@ The data had been retrieved from three main sources.
 * This gives us an overview of what types of films are well rated in the box office.
 
 
+<b> Top Directors </b>
+* In order to find out who the top directors are, the data for the directors was grouped together with the average rating.
+* The new dataframe was cleaned to drop any duplicate values
+* Then sorted through to retrieve the top 5 directors, as illustrated below .
+<img width="604" alt="directors" src="https://user-images.githubusercontent.com/124343722/224566315-3d589bf2-b4f1-4e7b-9b65-19be26d98493.png">
+
+
+<b> The most profitable films </b>
+* In order to find the most profitable films we altered the Numbers dataset in order to calculate domestic_profits and worldwide_profits.
 
 
 ## Conclusions
