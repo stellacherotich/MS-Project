@@ -4,12 +4,11 @@
 ##
 
 
-
 ##   Overview 
 
 This project aims to primarily assist Microsoft in creating a new movie studio by analyzing various data to identify the most profitable movies, top-rated directors, and genres among others. This is achieved by analyzing data that has been sourced from the IMDB SQLite database, The Box Office Mojo database and finally the Numbers Database.
 
-Exploratory Data Analysis (EDA) was used in order to obtain the data. The findings of this analysis is further explored in the <i> recommendations </i> section here.
+Exploratory Data Analysis (EDA) was used in order to obtain the data. The findings of this analysis is further explored in the <i> recommendations </i> section here. Furthermore, the insights will guide Microsoft's movie studio head on film types and competition, based on data and trends for informed decisions that boost commercial success.
 
 
 ## Business Understanding
@@ -72,9 +71,13 @@ The data had been retrieved from three main sources.
 
 <b> The most profitable films </b>
 * In order to find the most profitable films we altered the Numbers dataset in order to calculate domestic_profits and worldwide_profits.
+* The highest profits were from worldwide_profits.
+See the bar chart below as reference:
+
+<img width="485" alt="Profitable" src="https://user-images.githubusercontent.com/124343722/224566669-149a8676-c5ca-4ca0-b2aa-96138283a33b.png">
 
 
-## Conclusions
+## Conclusion
 
 
 <i> <b> Recommmendations</b> </i>
