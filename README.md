@@ -7,11 +7,13 @@
 
 ## <b>Overview </b>
 
-
+Microsoft is deciding whether to venture into the video content creation space as Microsoft Studio as they have seen notable success
 
 
 ## Business Understanding
 
+Microsoft is deciding whether to venture into the video content creation space as Microsoft Studio as they have seen notable success amongst other movie studio companies. 
+However, as they are not sure about where to begin, as the projects data scientist, I have been tasked to run Exploratory Data Analysis, from which I will explore the films that are not only doing the best in the box office in terms of ratings but also in terms of profitability.
 
 
 ## Data Understanding and Analysis
